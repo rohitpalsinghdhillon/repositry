@@ -11,6 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student can: say their name (getName)
  * 
  * push operation
+ * showing the change and puch to the ghit hub
  * @author dancye May 7, 2018
  */
 public class Student 
