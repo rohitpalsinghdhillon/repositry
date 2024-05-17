@@ -13,6 +13,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * push operation
  * (showing the change and puch to the ghit hub)
  *this is also chsnge but from the
+ for fetch merge
  * @author dancye May 7, 2018
  */
 public class Student 
